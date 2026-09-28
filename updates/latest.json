@@ -1,0 +1,19 @@
+{
+  "latestAppVersion": "1.0.0",
+  "latestContentVersion": "gangsheng-units-v3-2026-08-02",
+  "minCompatibleAppVersion": "1.0.0",
+  "releaseDate": "2026-09-29",
+  "title": "港聲 v1.0.0 正式版",
+  "changelog": [
+    "全面支援香港生活日常會話與磨耳朵連播",
+    "修復多音節分句音頻播放與斷點續播功能",
+    "全新極簡清爽視覺界面"
+  ],
+  "contentUpdate": {
+    "version": "20260830",
+    "url": "",
+    "sha256": "",
+    "size": 0
+  },
+  "appDownloadUrl": "https://github.com/Azengcodespace/GangSheng2/releases/latest"
+}
